@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Louis 👋
 
-<!--
-**louisrousset/louisrousset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Hardware Engineer & Indie Game Developer
 
-Here are some ideas to get you started:
+I am an engineer specializing in hardware design, electronic systems, and digital transformation, with a strong passion for bringing complex logic to life through game development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+* 🔭 **Currently working on:** A metroidvania game.
+* 💻 **Tech Stack & Tools:** Godot, GDScript, Hardware Architecture, Electronic Systems.
+* 🌱 **Always learning:** New ways to optimize performance and bridge the gap between embedded systems and intuitive software design.
+* ⚡ **Fun fact:** When I'm away from the keyboard and breadboards, I'm usually out rock climbing.
+
+---
+
+### 📫 How to reach me
+
+* **LinkedIn:** https://www.linkedin.com/in/louis-rousset/
+
+---
+
+### 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=louisrousset&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisrousset&layout=compact&theme=radical" height="150" alt="languages graph"  />
+</div>
