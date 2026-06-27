@@ -8,8 +8,8 @@ I am an engineer specializing in hardware design, electronic systems, and digita
 
 ### 🚀 About Me
 
-* 🔭 **Currently working on:** A metroidvania game.
-* 💻 **Tech Stack & Tools:** Godot, GDScript, Hardware Architecture, Electronic Systems.
+* 🔭 **Currently working on:** A metroidvania game & a homemade modular synthesizer.
+* 💻 **Tech Stack & Tools:** Godot, VSCode, KiCad, LTSpice, JIRA, Jenkins, Aseprite.
 * 🌱 **Always learning:** New ways to optimize performance and bridge the gap between embedded systems and intuitive software design.
 * ⚡ **Fun fact:** When I'm away from the keyboard and breadboards, I'm usually out rock climbing.
 
