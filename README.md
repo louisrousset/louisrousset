@@ -23,6 +23,6 @@ I am an engineer specializing in hardware design, electronic systems, and digita
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=louisrousset&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisrousset&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=louisrousset&show_icons=true&theme=radical&v=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisrousset&layout=compact&theme=radical&v=1" height="150" alt="languages graph"  />
 </div>
